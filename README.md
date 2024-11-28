@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning How to use Git
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me: don't worry about it
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Losing interest in something you used to enjoy is called anhedonia. I like to imagine there is an anthises to Hedonism bot called Anhedonism bot.
 
 <!---
